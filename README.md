@@ -29,6 +29,7 @@ Player | Accelerate | Brake | Turn Left | Turn Right | Use Item | Look Back
 2 | UP | DOWN | LEFT | RIGHT | Right Shift | Right Ctrl
 3 | I | K | J | L | B | N
 4 | 8 | 5 | 4 | 6 | 0 | 1
-The controls for player 4 refer to the numpad.
+
+*The controls for player 4 refer to the numpad.
 
 As mentioned before, [most keyboards aren't wired for them to able to register many keys at the same time](https://en.wikipedia.org/wiki/Rollover_(key)). Therefore, more than 2 players is not recommended unless you have a super awesome keyboard.
