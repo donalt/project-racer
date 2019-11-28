@@ -4,9 +4,9 @@ Racer Project is as one might expect a racing game. The racing is done on tracks
 
 Local multiplayer is possible with up to 4 players sharing a single screen. The biggest problem here is keyboard space and also how many buttons can be pressed simultaneously on your keyboard.
 
-## Testing
+## Video
 
-We will not be able to test if the graphics work as they should, except for if they crash the game or not. Therefore "manual" testing for that will suffice. Instead, all of our unit testing will be on the actual game code that judges collisions, behaviour of cars, procedural generation and so on.
+[![Imgur](https://i.imgur.com/imf20B3.png)](https://www.youtube.com/watch?v=64drobGdD4I "Showcase Video")
 
 ## Installing
 
